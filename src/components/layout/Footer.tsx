@@ -19,7 +19,7 @@ export default function Footer() {
               <li>상호: WITHUS MEDICARE (위더스메디케어)</li>
               <li>대표: OOO</li>
               <li>사업자등록번호: 000-00-00000</li>
-              <li>외국인환자유치업 등록번호: 제 A-0000호</li>
+
             </ul>
           </div>
           

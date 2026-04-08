@@ -50,7 +50,7 @@ export default function PainPoints() {
             viewport={{ once: true, margin: "-100px" }}
             className="text-3xl md:text-4xl font-bold mb-4"
           >
-            해외 환자 유치, <span className="text-[#C8A96E]">위더스가 해결해드립니다</span>
+            해외환자 유치를 위한 해외마케팅, <span className="text-[#C8A96E]">위더스가 해결해드립니다</span>
           </motion.h2>
           <motion.p 
             initial={{ opacity: 0, y: 20 }}

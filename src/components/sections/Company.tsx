@@ -1,7 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { CheckCircle2 } from "lucide-react";
+
 
 export default function Company() {
   return (
@@ -37,12 +37,7 @@ export default function Company() {
               <br />단순한 에이전시가 아닌, 병원의 글로벌 성장 파트너가 되겠습니다.
             </p>
             
-            <div className="space-y-4 mb-10">
-              <div className="flex items-center gap-4 bg-white/5 border border-white/10 p-4 rounded-xl">
-                <CheckCircle2 className="text-[#C8A96E]" size={24} />
-                <span className="font-semibold text-lg tracking-wide text-gray-200">합법적 외국인환자유치업 등록 완료 기관</span>
-              </div>
-            </div>
+
 
             <div className="grid grid-cols-2 gap-8 text-left">
               <div>
