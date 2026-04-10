@@ -120,7 +120,7 @@ export default function Contact() {
                   <Mail className="text-[#C8A96E] mt-1" size={24} />
                   <div>
                     <h4 className="font-medium text-gray-400 mb-1">Email</h4>
-                    <p className="text-lg font-semibold">Withusmedicare@gmail.com</p>
+                    <p className="text-lg font-semibold">withusmedicare@gmail.com</p>
                   </div>
                 </div>
 

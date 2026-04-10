@@ -32,7 +32,7 @@ export default function Header() {
     >
       <div className="container mx-auto px-6 max-w-[1200px] flex items-center justify-between">
         {/* Logo */}
-        <Link href="#" className="flex items-center gap-2">
+        <Link href="/" className="flex items-center gap-2">
           <span className="text-2xl font-bold tracking-tight text-white">
             WITHUS<span className="text-[#C8A96E]">MEDICARE</span>
           </span>
