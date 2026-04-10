@@ -3,7 +3,7 @@ import "./globals.css";
 import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
 
-const BASE_URL = "https://withusmedicare.co.kr";
+const BASE_URL = "https://withusmedicare.com";
 const DESCRIPTION = "AI 기반 숏폼 콘텐츠 제작부터 환자 상담, 통역까지. 병원의 해외 환자 유치 전 과정을 WITHUS MEDICARE와 함께 시작하세요.";
 
 export const metadata: Metadata = {
@@ -54,13 +54,13 @@ export default function RootLayout({
               "@graph": [
                 {
                   "@type": "Organization",
-                  "@id": "https://withusmedicare.co.kr/#organization",
+                  "@id": "https://withusmedicare.com/#organization",
                   name: "WITHUS MEDICARE",
                   alternateName: "위더스메디케어",
-                  url: "https://withusmedicare.co.kr",
+                  url: "https://withusmedicare.com",
                   logo: {
                     "@type": "ImageObject",
-                    url: "https://withusmedicare.co.kr/og-image.png",
+                    url: "https://withusmedicare.com/og-image.png",
                   },
                   contactPoint: {
                     "@type": "ContactPoint",
@@ -75,17 +75,17 @@ export default function RootLayout({
                 },
                 {
                   "@type": "WebSite",
-                  "@id": "https://withusmedicare.co.kr/#website",
-                  url: "https://withusmedicare.co.kr",
+                  "@id": "https://withusmedicare.com/#website",
+                  url: "https://withusmedicare.com",
                   name: "WITHUS MEDICARE",
                   publisher: {
-                    "@id": "https://withusmedicare.co.kr/#organization",
+                    "@id": "https://withusmedicare.com/#organization",
                   },
                   inLanguage: "ko-KR",
                 },
                 {
                   "@type": "FAQPage",
-                  "@id": "https://withusmedicare.co.kr/#faq",
+                  "@id": "https://withusmedicare.com/#faq",
                   mainEntity: [
                     {
                       "@type": "Question",
@@ -139,10 +139,10 @@ export default function RootLayout({
                 },
                 {
                   "@type": "ProfessionalService",
-                  "@id": "https://withusmedicare.co.kr/#service",
+                  "@id": "https://withusmedicare.com/#service",
                   name: "WITHUS MEDICARE 외국인 환자 유치 서비스",
                   provider: {
-                    "@id": "https://withusmedicare.co.kr/#organization",
+                    "@id": "https://withusmedicare.com/#organization",
                   },
                   serviceType: "외국인 환자 유치 에이전시",
                   areaServed: {
