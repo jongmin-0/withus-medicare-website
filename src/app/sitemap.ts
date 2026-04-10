@@ -3,7 +3,7 @@ import type { MetadataRoute } from "next";
 export default function sitemap(): MetadataRoute.Sitemap {
   return [
     {
-      url: "https://withusmedicare.co.kr",
+      url: "https://withusmedicare.com",
       lastModified: new Date(),
       changeFrequency: "monthly",
       priority: 1,
