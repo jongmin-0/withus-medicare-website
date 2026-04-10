@@ -4,6 +4,7 @@ import Services from "@/components/sections/Services";
 import Showcase from "@/components/sections/Showcase";
 import Process from "@/components/sections/Process";
 import Company from "@/components/sections/Company";
+import FAQ from "@/components/sections/FAQ";
 import Contact from "@/components/sections/Contact";
 
 export default function Home() {
@@ -15,6 +16,7 @@ export default function Home() {
       <Showcase />
       <Process />
       <Company />
+      <FAQ />
       <Contact />
     </>
   );

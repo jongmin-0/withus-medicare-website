@@ -17,8 +17,8 @@ export default function Footer() {
             <h4 className="text-white font-semibold mb-3">CompanyInfo</h4>
             <ul className="space-y-2">
               <li>상호: WITHUS MEDICARE (위더스메디케어)</li>
-              <li>대표: OOO</li>
-              <li>사업자등록번호: 000-00-00000</li>
+              <li>대표: 김종민</li>
+              <li>사업자등록번호: 266-88-03809</li>
 
             </ul>
           </div>
@@ -27,7 +27,7 @@ export default function Footer() {
             <h4 className="text-white font-semibold mb-3">Contact</h4>
             <ul className="space-y-2">
               <li>📞 010-2074-0000</li>
-              <li>📧 Withusmedicare@gmail.com</li>
+              <li>📧 withusmedicare@gmail.com</li>
             </ul>
           </div>
 
