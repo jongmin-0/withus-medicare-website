@@ -26,7 +26,7 @@ export default function Footer() {
           <div>
             <h4 className="text-white font-semibold mb-3">Contact</h4>
             <ul className="space-y-2">
-              <li>📞 010-2074-0000</li>
+              <li>📞 010-5733-4148</li>
               <li>📧 withusmedicare@gmail.com</li>
             </ul>
           </div>

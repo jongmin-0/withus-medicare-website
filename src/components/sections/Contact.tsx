@@ -112,7 +112,7 @@ export default function Contact() {
                   <Phone className="text-[#C8A96E] mt-1" size={24} />
                   <div>
                     <h4 className="font-medium text-gray-400 mb-1">Phone</h4>
-                    <p className="text-lg font-semibold">010-2074-0000</p>
+                    <p className="text-lg font-semibold">010-5733-4148</p>
                   </div>
                 </div>
 
